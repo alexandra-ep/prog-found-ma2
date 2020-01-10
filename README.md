@@ -1,0 +1,1 @@
+This is my answers for the module assignment 2 in Programming Foundations. 10.01.2020. Alexandra Eline Pettersen
